@@ -10,6 +10,10 @@ The following are a few popular tools that you learned in the video courses part
 * [sqlmap](http://sqlmap.org/)
 * [httrack](https://www.httrack.com/)
 * [skipfish](https://code.google.com/archive/p/skipfish/)
+* [nikto](https://cirt.net/Nikto2)
+* [ffuf](https://github.com/ffuf/ffuf) 
+
+Article: [A Quick Guide to Using ffuf with Burp Suite](https://medium.com/@santosomar/a-quick-guide-to-using-ffuf-with-burp-suite-713492f62242)
 
 ## WebSploit
 
@@ -17,17 +21,28 @@ The following are a few popular tools that you learned in the video courses part
 
 The purpose of this VM is to have a lightweight (single VM) with a few web application penetration testing tools, as well as vulnerable applications.
 
-The following are the vulnerable applications included in [WebSploit](https://websploit.h4cker.org/):
-- Damn Vulnerable Web Application (DVWA)
-- WebGoat
-- Hackazon
-- OWASP Juice Shop
-- OWASP Mutillidae 2
 
 ## How to Integrate OWASP ZAP with Jenkins
 You can integrate ZAP with Jenkins and even automatically create Jira issues based on your findings. You can download the [ZAP plug in here](https://wiki.jenkins.io/display/JENKINS/zap+plugin).
 
 [This video](https://www.youtube.com/watch?v=mmHZLSffCUg) provides an overview of how to integrate  
+
+## Kubernetes Security
+- [Kubernetes Pentest Methodology (part 1) by CyberArk](https://www.cyberark.com/threat-research-blog/kubernetes-pentest-methodology-part-1/)
+- [Kubernetes Pentest Methodology (part 2) by CyberArk](https://www.cyberark.com/threat-research-blog/kubernetes-pentest-methodology-part-2/)
+- [Kubernetes Pentest Methodology (part 2) by CyberArk](https://www.cyberark.com/threat-research-blog/kubernetes-pentest-methodology-part-3/)
+- [Securing Kubernetes Clusters by Eliminating Risky Permissions](https://www.cyberark.com/threat-research-blog/securing-kubernetes-clusters-by-eliminating-risky-permissions/)
+- [Kubernetes Network Policies Recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
+- [Kubiscan](https://github.com/cyberark/KubiScan)
+- [Kube-hunter](https://github.com/aquasecurity/kube-hunter)
+- [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat)
+
+
+## Docker Security
+- [OWASP Docker security resources](https://github.com/OWASP/Docker-Security)
+- [Docker Bench for Security](https://github.com/docker/docker-bench-security)
+- [Dockerscan](https://github.com/cr0hn/dockerscan)
+- [Docker Security Playground](https://github.com/giper45/DockerSecurityPlayground)
 
 ## Javascript Tools
 * [Retire.js](https://retirejs.github.io/retire.js)
@@ -298,7 +313,6 @@ You can integrate ZAP with Jenkins and even automatically create Jira issues bas
 - [Kotlin](https://github.com/KotlinBy/awesome-kotlin)
 - [OCaml](https://github.com/rizo/awesome-ocaml)
 - [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
-- [Fortran](https://github.com/rabbiabram/awesome-fortran)
 - [.NET](https://github.com/quozd/awesome-dotnet)
 	- [Core](https://github.com/thangchung/awesome-dotnet-core)
 - [PHP](https://github.com/ziadoz/awesome-php)

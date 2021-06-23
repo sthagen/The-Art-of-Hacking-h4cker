@@ -10,6 +10,7 @@
 
 ## Disassemblers
 
+* [Ghidra](https://ghidra-sre.org/)
 * [Binary Ninja](https://binary.ninja/)
 * [Capstone](http://www.capstone-engine.org/)
 * [fREedom](https://github.com/cseagle/fREedom)
@@ -58,6 +59,7 @@
 
 ## Reverse Engineering Tutorials
 
+* [Assembly Programming Tutorial](https://www.tutorialspoint.com/assembly_programming/index.htm)
 * [ARM Assembly Basics](https://azeria-labs.com/writing-arm-assembly-part-1/)
 * [Binary Auditing Course](http://www.binary-auditing.com/)
 * [Corelan Training](https://www.corelan-training.com/)
