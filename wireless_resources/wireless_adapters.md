@@ -1,5 +1,5 @@
 # Penetration Testing and Wireless Adapters
-As you learned in the course, there are many challenges with different wireless adapters, Linux, and wireless penetration testing tools. This is a fact especially when trying to perform promiscuous monitoring and injecting packets into the wireless network.
+As you learned either in one of my books, courses, or in the Internet, there are many challenges with different wireless adapters, Linux, and wireless penetration testing tools. This is a fact especially when trying to perform promiscuous monitoring and injecting packets into the wireless network.
 
 The following are some of the most popular wireless adapters used by penetration testers (ethical hackers) in the industry.
 
@@ -47,3 +47,6 @@ Very cheap and compatible with Kali Linux. It is not perfect for packet injectio
 
 #### TP-Link N150 Wireless High Gain USB Adapter (TL-WN722N)
 The TP-LINK TL-WN722N uses the Atheros AR9271 Chipset and is a wireless N adapter. Newer versions may not use the same chipset and you may run into problems with Kali Linux.
+
+## WiFi Pineapple 
+[Hak5's Wifi Pineapple](https://shop.hak5.org/products/wifi-pineapple) is a very comprehensive framework (hardware and software) that can be used to easily launch several WiFi attacks.
