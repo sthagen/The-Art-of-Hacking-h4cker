@@ -2,6 +2,16 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PEzor-Docker - With The Help Of This Docker Image, You Can Easily Access PEzor On Your System!](http://www.kitploit.com/2022/05/pezor-docker-with-help-of-this-docker.html)
+- [Malicious-Pdf -  Generate A Bunch Of Malicious Pdf Files With Phone-Home Functionality](http://www.kitploit.com/2022/05/malicious-pdf-generate-bunch-of.html)
+- [Graphql-Threat-Matrix - GraphQL Threat Framework Used By Security Professionals To Research Security Gaps In GraphQL Implementations](http://www.kitploit.com/2022/05/graphql-threat-matrix-graphql-threat.html)
+- [Cliam - Multi Cloud IAM Permissions Enumeration Tool](http://www.kitploit.com/2022/05/cliam-multi-cloud-iam-permissions.html)
+- [LDAPFragger - Command And Control Tool That Enables Attackers To Route Cobalt Strike Beacon Data Over LDAP](http://www.kitploit.com/2022/05/ldapfragger-command-and-control-tool.html)
+- [LeakedHandlesFinder - Leaked Windows Processes Handles Identification Tool](http://www.kitploit.com/2022/05/leakedhandlesfinder-leaked-windows.html)
+- [FirmWire -b Full-System Baseband Firmware Emulation Platform For Fuzzing, Debugging, And Root-Cause Analysis Of Smartphone Baseband Firmwares](http://www.kitploit.com/2022/05/firmwire-b-full-system-baseband.html)
+- [Pybatfish - Python Client For Batfish (Network Configuration Analysis Tool)](http://www.kitploit.com/2022/05/pybatfish-python-client-for-batfish.html)
+- [Moonwalk - Cover Your Tracks During Linux Exploitation By Leaving Zero Traces On System Logs And Filesystem Timestamps](http://www.kitploit.com/2022/05/moonwalk-cover-your-tracks-during-linux.html)
+- [Nanodump - A Crappy LSASS Dumper With No ASCII Art](http://www.kitploit.com/2022/05/nanodump-crappy-lsass-dumper-with-no.html)
 - [BackupOperatorToDA - From An Account Member Of The Group Backup Operators To Domain Admin Without RDP Or WinRM On The Domain Controller](http://www.kitploit.com/2022/05/backupoperatortoda-from-account-member.html)
 - [Dora - Find Exposed API Keys Based On RegEx And Get Exploitation Methods For Some Of Keys That Are Found](http://www.kitploit.com/2022/04/dora-find-exposed-api-keys-based-on.html)
 - [Requests-Ip-Rotator - A Python Library To Utilize AWS API Gateway's Large IP Pool As A Proxy To Generate Pseudo-Infinite IPs For Web Scraping And Brute Forcing](http://www.kitploit.com/2022/04/requests-ip-rotator-python-library-to.html)
