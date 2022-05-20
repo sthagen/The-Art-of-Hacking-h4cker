@@ -2,6 +2,14 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [C2concealer - Command Line Tool That Generates Randomized C2 Malleable Profiles For Use In Cobalt Strike](http://www.kitploit.com/2022/05/c2concealer-command-line-tool-that.html)
+- [PowerProxy - PowerShell SOCKS Proxy With Reverse Proxy Capabilities](http://www.kitploit.com/2022/05/powerproxy-powershell-socks-proxy-with.html)
+- [Cyph - Cryptographically Secure Messaging And Social Networking Service](http://www.kitploit.com/2022/05/cyph-cryptographically-secure-messaging.html)
+- [ShadowClone - Unleash The Power Of Cloud](http://www.kitploit.com/2022/05/shadowclone-unleash-power-of-cloud.html)
+- [Grafiki - Threat Hunting Tool About Sysmon And Graphs](http://www.kitploit.com/2022/05/grafiki-threat-hunting-tool-about.html)
+- [Vaas - Verdict-as-a-Service SDKs: Analyze Files For Malicious Content](http://www.kitploit.com/2022/05/vaas-verdict-as-service-sdks-analyze.html)
+- [Kali Linux 2022.2 - Penetration Testing and Ethical Hacking Linux Distribution](http://www.kitploit.com/2022/05/kali-linux-20222-penetration-testing.html)
+- [BirDuster - A Multi Threaded Python Script Designed To Brute Force Directories And Files Names On Webservers](http://www.kitploit.com/2022/05/birduster-multi-threaded-python-script.html)
 - [Chlonium - Chromium Cookie Import / Export Tool](http://www.kitploit.com/2022/05/chlonium-chromium-cookie-import-export.html)
 - [NodeSecurityShield - A Developer And Security Engineer Friendly Package For Securing NodeJS Applications](http://www.kitploit.com/2022/05/nodesecurityshield-developer-and.html)
 - [BWASP - BoB Web Application Security Project](http://www.kitploit.com/2022/05/bwasp-bob-web-application-security.html)
