@@ -2,6 +2,13 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [CRLFsuite - Fast CRLF Injection Scanning Tool](http://www.kitploit.com/2022/06/crlfsuite-fast-crlf-injection-scanning.html)
+- [SMB-Session-Spoofing - Tool To Create A Fake SMB Session](http://www.kitploit.com/2022/06/smb-session-spoofing-tool-to-create.html)
+- [Atomic-Operator - A Python Package Is Used To Execute Atomic Red Team Tests (Atomics) Across Multiple Operating System Environments](http://www.kitploit.com/2022/06/atomic-operator-python-package-is-used.html)
+- [Notionterm - Embed Reverse Shell In Notion Pages](http://www.kitploit.com/2022/06/notionterm-embed-reverse-shell-in.html)
+- [MITM_Intercept - A Little Bit Less Hackish Way To Intercept And Modify non-HTTP Protocols Through Burp And Others](http://www.kitploit.com/2022/06/mitmintercept-little-bit-less-hackish.html)
+- [Zap-Scripts - Zed Attack Proxy Scripts For Finding CVEs And Secrets](http://www.kitploit.com/2022/06/zap-scripts-zed-attack-proxy-scripts.html)
+- [PowerGram - Multiplatform Telegram Bot In Pure PowerShell](http://www.kitploit.com/2022/06/powergram-multiplatform-telegram-bot-in.html)
 - [Wrongsecrets - Examples With How To Not Use Secrets](http://www.kitploit.com/2022/05/wrongsecrets-examples-with-how-to-not.html)
 - [K0Otkit - Universal Post-Penetration Technique Which Could Be Used In Penetrations Against Kubernetes Clusters](http://www.kitploit.com/2022/05/k0otkit-universal-post-penetration.html)
 - [Labtainers - A Docker-based Cyber Lab Framework](http://www.kitploit.com/2022/05/labtainers-docker-based-cyber-lab.html)
