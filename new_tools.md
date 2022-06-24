@@ -2,6 +2,12 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Norimaci - Simple And Lightweight Malware Analysis Sandbox For macOS](http://www.kitploit.com/2022/06/norimaci-simple-and-lightweight-malware.html)
+- [TrelloC2 - Simple C2 Over The Trello API](http://www.kitploit.com/2022/06/trelloc2-simple-c2-over-trello-api.html)
+- [WEF - Wi-Fi Exploitation Framework](http://www.kitploit.com/2022/06/wef-wi-fi-exploitation-framework.html)
+- [MalSCCM - Tool To Abuse Local Or Remote SCCM Servers To Deploy Malicious Applications](http://www.kitploit.com/2022/06/malsccm-tool-to-abuse-local-or-remote.html)
+- [GooFuzz - Tool To Perform Fuzzing With An OSINT Approach, Managing To Enumerate Directories, Files, Subdomains Or Parameters Without Leaving Evidence On The Target's Server With Google Dorking](http://www.kitploit.com/2022/06/goofuzz-tool-to-perform-fuzzing-with.html)
+- [Naabu - A Fast Port Scanner Written In Go With A Focus On Reliability And Simplicity](http://www.kitploit.com/2022/06/naabu-fast-port-scanner-written-in-go.html)
 - [Msprobe - Finding All Things On-Prem Microsoft For Password Spraying And Enumeration](http://www.kitploit.com/2022/06/msprobe-finding-all-things-on-prem.html)
 - [SharpSniper - Find Specific Users In Active Directory Via Their Username And Logon IP Address](http://www.kitploit.com/2022/06/sharpsniper-find-specific-users-in.html)
 - [Xss_Vulnerability_Challenges - This Repository Is A Docker Containing Some "XSS Vulnerability" Challenges And Bypass Examples](http://www.kitploit.com/2022/06/xssvulnerabilitychallenges-this.html)
