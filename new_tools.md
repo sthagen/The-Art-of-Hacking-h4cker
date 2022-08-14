@@ -2,6 +2,12 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [NimGetSyscallStub - Get Fresh Syscalls From A Fresh Ntdll.Dll Copy](http://www.kitploit.com/2022/08/nimgetsyscallstub-get-fresh-syscalls.html)
+- [OffensiveVBA - Code Execution And AV Evasion Methods For Macros In Office Documents](http://www.kitploit.com/2022/08/offensivevba-code-execution-and-av.html)
+- [Faraday Community - Open Source Penetration Testing and Vulnerability Management Platform](http://www.kitploit.com/2022/08/faraday-community-open-source.html)
+- [Faraday Community - Open Source Penetration Testing and Vulnerability Management Platform](http://www.kitploit.com/2022/08/faraday-community-open-source.html)
+- [Kali Linux 2022.3 - Penetration Testing and Ethical Hacking Linux Distribution](http://www.kitploit.com/2022/08/kali-linux-20223-penetration-testing.html)
+- [Packj - Large-Scale Security Analysis Platform To Detect Malicious/Risky Open-Source Packages](http://www.kitploit.com/2022/08/packj-large-scale-security-analysis.html)
 - [MrKaplan - Tool Aimed To Help Red Teamers To Stay Hidden By Clearing Evidence Of Execution](http://www.kitploit.com/2022/08/mrkaplan-tool-aimed-to-help-red-teamers.html)
 - [Sealighter - Easy ETW Tracing for Security Research](http://www.kitploit.com/2022/06/sealighter-easy-etw-tracing-for.html)
 - [EmoCheck - Emotet Detection Tool For Windows OS](http://www.kitploit.com/2022/06/emocheck-emotet-detection-tool-for.html)
