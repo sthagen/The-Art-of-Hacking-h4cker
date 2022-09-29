@@ -2,6 +2,20 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SpyCast - A Crossplatform mDNS Enumeration Tool](http://www.kitploit.com/2022/09/spycast-crossplatform-mdns-enumeration.html)
+- [Psudohash - Password List Generator That Focuses On Keywords Mutated By Commonly Used Password Creation Patterns](http://www.kitploit.com/2022/09/psudohash-password-list-generator-that.html)
+- [Scan4All - Vuls Scan: 15000+PoCs; 21 Kinds Of Application Password Crack; 7000+Web Fingerprints; 146 Protocols And 90000+ Rules Port Scanning; Fuzz, HW, Awesome BugBounty...](http://www.kitploit.com/2022/09/scan4all-vuls-scan-15000pocs-21-kinds.html)
+- [pyFlipper - Unoffical Flipper Zero Cli Wrapper Written In Python](http://www.kitploit.com/2022/09/pyflipper-unoffical-flipper-zero-cli.html)
+- [SharpNamedPipePTH - Pass The Hash To A Named Pipe For Token Impersonation](http://www.kitploit.com/2022/09/sharpnamedpipepth-pass-hash-to-named.html)
+- [PSAsyncShell - PowerShell Asynchronous TCP Reverse Shell](http://www.kitploit.com/2022/09/psasyncshell-powershell-asynchronous.html)
+- [Pax - CLI Tool For PKCS7 Padding Oracle Attacks](http://www.kitploit.com/2022/09/pax-cli-tool-for-pkcs7-padding-oracle.html)
+- [SCodeScanner - Stands For Source Code Scanner Where The User Can Scans The Source Code For Finding The Critical Vulnerabilities](http://www.kitploit.com/2022/09/scodescanner-stands-for-source-code.html)
+- [OSRipper - AV Evading OSX Backdoor And Crypter Framework](http://www.kitploit.com/2022/09/osripper-av-evading-osx-backdoor-and.html)
+- [NimGetSyscallStub - Get Fresh Syscalls From A Fresh Ntdll.Dll Copy](http://www.kitploit.com/2022/09/nimgetsyscallstub-get-fresh-syscalls.html)
+- [Kam1n0 - Assembly Analysis Platform](http://www.kitploit.com/2022/09/kam1n0-assembly-analysis-platform.html)
+- [CATS - REST API Fuzzer And Negative Testing Tool For OpenAPI Endpoints](http://www.kitploit.com/2022/09/cats-rest-api-fuzzer-and-negative.html)
+- [FISSURE - Frequency Independent SDR-based Signal Understanding and Reverse Engineering](http://www.kitploit.com/2022/09/fissure-frequency-independent-sdr-based.html)
+- [DeathSleep - A PoC Implementation For An Evasion Technique To Terminate The Current Thread And Restore It Before Resuming Execution, While Implementing Page Protection Changes During No Execution](http://www.kitploit.com/2022/09/deathsleep-poc-implementation-for.html)
 - [XLL_Phishing - XLL Phishing Tradecraft](http://www.kitploit.com/2022/09/xllphishing-xll-phishing-tradecraft.html)
 - [SharpImpersonation - A User Impersonation Tool - Via Token Or Shellcode Injection](http://www.kitploit.com/2022/09/sharpimpersonation-user-impersonation.html)
 - [SDomDiscover - A Easy-To-Use Python Tool To Perform DNS Recon](http://www.kitploit.com/2022/09/sdomdiscover-easy-to-use-python-tool-to.html)
