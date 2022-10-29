@@ -2,6 +2,13 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Threatest - Threatest Is A Go Framework For End-To-End Testing Threat Detection Rules](http://www.kitploit.com/2022/10/threatest-threatest-is-go-framework-for.html)
+- [Sandman - NTP Based Backdoor For Red Team Engagements In Hardened Networks](http://www.kitploit.com/2022/10/sandman-ntp-based-backdoor-for-red-team.html)
+- [Whids - Open Source EDR For Windows](http://www.kitploit.com/2022/10/whids-open-source-edr-for-windows.html)
+- [ProtectMyTooling - Multi-Packer Wrapper Letting Us Daisy-Chain Various Packers, Obfuscators And Other Red Team Oriented Weaponry](http://www.kitploit.com/2022/10/protectmytooling-multi-packer-wrapper.html)
+- [Shomon - Shodan Monitoring Integration For TheHive](http://www.kitploit.com/2022/10/shomon-shodan-monitoring-integration.html)
+- [Bomber - Scans Software Bill Of Materials (SBOMs) For Security Vulnerabilities](http://www.kitploit.com/2022/10/bomber-scans-software-bill-of-materials.html)
+- [Mangle - Tool That Manipulates Aspects Of Compiled Executables (.Exe Or DLL) To Avoid Detection From EDRs](http://www.kitploit.com/2022/10/mangle-tool-that-manipulates-aspects-of.html)
 - [Usbsas - Tool And Framework For Securely Reading Untrusted USB Mass Storage Devices](http://www.kitploit.com/2022/10/usbsas-tool-and-framework-for-securely.html)
 - [PartyLoud - A Simple Tool To Generate Fake Web Browsing And Mitigate Tracking](http://www.kitploit.com/2022/10/partyloud-simple-tool-to-generate-fake.html)
 - [MHDDoS - DDoS Attack Script With 56 Methods](http://www.kitploit.com/2022/10/mhddos-ddos-attack-script-with-56.html)
