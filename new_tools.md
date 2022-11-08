@@ -2,6 +2,15 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Evilgophish - Evilginx2 + Gophish](http://www.kitploit.com/2022/11/evilgophish-evilginx2-gophish.html)
+- [Collect-MemoryDump - Automated Creation Of Windows Memory Snapshots For DFIR](http://www.kitploit.com/2022/11/collect-memorydump-automated-creation.html)
+- [Prefetch-Hash-Cracker - A Small Util To Brute-Force Prefetch Hashes](http://www.kitploit.com/2022/11/prefetch-hash-cracker-small-util-to.html)
+- [Appshark - Static Taint Analysis Platform To Scan Vulnerabilities In An Android App](http://www.kitploit.com/2022/11/appshark-static-taint-analysis-platform.html)
+- [VuCSA - Vulnerable Client-Server Application -  Made For Learning/Presenting How To Perform Penetration Tests Of Non-Http Thick Clients](http://www.kitploit.com/2022/11/vucsa-vulnerable-client-server.html)
+- [Jscythe - Abuse The Node.Js Inspector Mechanism In Order To Force Any Node.Js/Electron/V8 Based Process To Execute Arbitrary Javascript Code](http://www.kitploit.com/2022/11/jscythe-abuse-nodejs-inspector.html)
+- [Cicd-Goat - A Deliberately Vulnerable CI/CD Environment](http://www.kitploit.com/2022/11/cicd-goat-deliberately-vulnerable-cicd.html)
+- [Reverse_SSH - SSH Based Reverse Shell](http://www.kitploit.com/2022/10/reversessh-ssh-based-reverse-shell.html)
+- [Ermir - An Evil Java RMI Registry](http://www.kitploit.com/2022/10/ermir-evil-java-rmi-registry.html)
 - [Threatest - Threatest Is A Go Framework For End-To-End Testing Threat Detection Rules](http://www.kitploit.com/2022/10/threatest-threatest-is-go-framework-for.html)
 - [Sandman - NTP Based Backdoor For Red Team Engagements In Hardened Networks](http://www.kitploit.com/2022/10/sandman-ntp-based-backdoor-for-red-team.html)
 - [Whids - Open Source EDR For Windows](http://www.kitploit.com/2022/10/whids-open-source-edr-for-windows.html)
