@@ -2,6 +2,18 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SharpSCCM - A C# Utility For Interacting With SCCM](http://www.kitploit.com/2022/11/sharpsccm-c-utility-for-interacting.html)
+- [Octopii - An AI-powered Personal Identifiable Information (PII) Scanner](http://www.kitploit.com/2022/11/octopii-ai-powered-personal.html)
+- [Scrcpy - Display And Control Your Android Device](http://www.kitploit.com/2022/11/scrcpy-display-and-control-your-android.html)
+- [Stegowiper - A Powerful And Flexible Tool To Apply Active Attacks For Disrupting Stegomalware](http://www.kitploit.com/2022/11/stegowiper-powerful-and-flexible-tool.html)
+- [Sandbox_Scryer - Tool For Producing Threat Hunting And Intelligence Data From Public Sandbox Detonation Output](http://www.kitploit.com/2022/11/sandboxscryer-tool-for-producing-threat.html)
+- [Wodat - Windows Oracle Database Attack Toolkit](http://www.kitploit.com/2022/11/wodat-windows-oracle-database-attack.html)
+- [Slicer - Tool To Automate The Boring Process Of APK Recon](http://www.kitploit.com/2022/11/slicer-tool-to-automate-boring-process.html)
+- [nuvola - Tool To Dump And Perform Automatic And Manual Security Analysis On Aws Environments Configurations And Services](http://www.kitploit.com/2022/11/nuvola-tool-to-dump-and-perform.html)
+- [TripleCross - A Linux eBPF Rootkit With A Backdoor, C2, Library Injection, Execution Hijacking, Persistence And Stealth Capabilities.](http://www.kitploit.com/2022/11/triplecross-linux-ebpf-rootkit-with.html)
+- [Dismember - Scan Memory For Secrets And More](http://www.kitploit.com/2022/11/dismember-scan-memory-for-secrets-and.html)
+- [Unblob - Extract Files From Any Kind Of Container Formats](http://www.kitploit.com/2022/11/unblob-extract-files-from-any-kind-of.html)
+- [SCMKit - Source Code Management Attack Toolkit](http://www.kitploit.com/2022/11/scmkit-source-code-management-attack.html)
 - [autoSSRF - Smart Context-Based SSRF Vulnerabiltiy Scanner](http://www.kitploit.com/2022/11/autossrf-smart-context-based-ssrf.html)
 - [TeamFiltration - Cross-Platform Framework For Enumerating, Spraying, Exfiltrating, And Backdooring O365 AAD Accounts](http://www.kitploit.com/2022/11/teamfiltration-cross-platform-framework.html)
 - [NGWAF - First Iteration Of ML Based Feedback WAF](http://www.kitploit.com/2022/11/ngwaf-first-iteration-of-ml-based.html)
