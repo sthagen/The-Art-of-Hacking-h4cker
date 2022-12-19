@@ -2,6 +2,20 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Shennina - Automating Host Exploitation With AI](http://www.kitploit.com/2022/12/shennina-automating-host-exploitation.html)
+- [laZzzy - Shellcode Loader, Developed Using Different Open-Source Libraries, That Demonstrates Different Execution Techniques](http://www.kitploit.com/2022/12/lazzzy-shellcode-loader-developed-using.html)
+- [Octosuite - Advanced Github OSINT Framework](http://www.kitploit.com/2022/12/octosuite-advanced-github-osint.html)
+- [AzureHound - Azure Data Exporter For BloodHound](http://www.kitploit.com/2022/12/azurehound-azure-data-exporter-for.html)
+- [ADFSRelay - Proof Of Concept Utilities Developed To Research NTLM Relaying Attacks Targeting ADFS](http://www.kitploit.com/2022/12/adfsrelay-proof-of-concept-utilities.html)
+- [FarsightAD - PowerShell Script That Aim To Help Uncovering (Eventual) Persistence Mechanisms Deployed By A Threat Actor Following An Active Directory Domain Compromise](http://www.kitploit.com/2022/12/farsightad-powershell-script-that-aim.html)
+- [Codecepticon - .NET Application That Allows You To Obfuscate C#, VBA/VB6 (Macros), And PowerShell Source Code](http://www.kitploit.com/2022/12/codecepticon-net-application-that.html)
+- [Legitify - Detect And Remediate Misconfigurations And Security Risks Across All Your GitHub Assets](http://www.kitploit.com/2022/12/legitify-detect-and-remediate.html)
+- [Pyramid - A Tool To Help Operate In EDRs' Blind Spots](http://www.kitploit.com/2022/12/pyramid-tool-to-help-operate-in-edrs.html)
+- [AzureGraph - Azure AD Enumeration Over MS Graph](http://www.kitploit.com/2022/12/azuregraph-azure-ad-enumeration-over-ms.html)
+- [R4Ven - Track Ip And GPS Location](http://www.kitploit.com/2022/12/r4ven-track-ip-and-gps-location.html)
+- [Pylirt - Python Linux Incident Response Toolkit](http://www.kitploit.com/2022/12/pylirt-python-linux-incident-response.html)
+- [Klyda - Highly Configurable Script For Dictionary/Spray Attacks Against Online Web Applications](http://www.kitploit.com/2022/12/klyda-highly-configurable-script-for.html)
+- [Scscanner - Tool To Read Website Status Code Response From The Lists](http://www.kitploit.com/2022/12/scscanner-tool-to-read-website-status.html)
 - [Neton - Tool For Getting Information From Internet Connected Sandboxes](http://www.kitploit.com/2022/12/neton-tool-for-getting-information-from.html)
 - [Shells - Little Script For Generating Revshells](http://www.kitploit.com/2022/12/shells-little-script-for-generating.html)
 - [Pywirt - Python Windows Incident Response Toolkit](http://www.kitploit.com/2022/12/pywirt-python-windows-incident-response.html)
