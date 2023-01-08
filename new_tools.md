@@ -2,6 +2,16 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [AceLdr - Cobalt Strike UDRL For Memory Scanner Evasion](http://www.kitploit.com/2023/01/aceldr-cobalt-strike-udrl-for-memory.html)
+- [REST-Attacker - Designed As A Proof-Of-Concept For The Feasibility Of Testing Generic Real-World REST Implementations](http://www.kitploit.com/2023/01/rest-attacker-designed-as-proof-of.html)
+- [DotDumper - An Automatic Unpacker And Logger For DotNet Framework Targeting Files](http://www.kitploit.com/2023/01/dotdumper-automatic-unpacker-and-logger.html)
+- [ExchangeFinder - Find Microsoft Exchange Instance For A Given Domain And Identify The Exact Version](http://www.kitploit.com/2023/01/exchangefinder-find-microsoft-exchange.html)
+- [Villain - Windows And Linux Backdoor Generator And Multi-Session Handler That Allows Users To Connect With Sibling Servers And Share Their Backdoor Sessions](http://www.kitploit.com/2023/01/villain-windows-and-linux-backdoor.html)
+- [PXEThief - Set Of Tooling That Can Extract Passwords From The Operating System Deployment Functionality In Microsoft Endpoint Configuration Manager](http://www.kitploit.com/2023/01/pxethief-set-of-tooling-that-can.html)
+- [Subparse - Modular Malware Analysis Artifact Collection And Correlation Framework](http://www.kitploit.com/2023/01/subparse-modular-malware-analysis.html)
+- [Cypherhound - Terminal Application That Contains 260+ Neo4j Cyphers For BloodHound Data Sets](http://www.kitploit.com/2023/01/cypherhound-terminal-application-that.html)
+- [Top 20 Most Popular Hacking Tools in 2022](http://www.kitploit.com/2022/12/top-20-most-popular-hacking-tools-in.html)
+- [Aftermath - A Free macOS IR Framework](http://www.kitploit.com/2022/12/aftermath-free-macos-ir-framework.html)
 - [Havoc - Modern and malleable post-exploitation command and control framework](http://www.kitploit.com/2022/12/havoc-modern-and-malleable-post.html)
 - [OFRAK - Unpack, Modify, And Repack Binaries](http://www.kitploit.com/2022/12/ofrak-unpack-modify-and-repack-binaries.html)
 - [Autobloody - Tool To Automatically Exploit Active Directory Privilege Escalation Paths Shown By BloodHound](http://www.kitploit.com/2022/12/autobloody-tool-to-automatically.html)
