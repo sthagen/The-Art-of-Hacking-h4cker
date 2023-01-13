@@ -2,6 +2,11 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Bkcrack - Crack Legacy Zip Encryption With Biham And Kocher's Known Plaintext Attack](http://www.kitploit.com/2023/01/bkcrack-crack-legacy-zip-encryption.html)
+- [KRIe - Linux Kernel Runtime Integrity With eBPF](http://www.kitploit.com/2023/01/krie-linux-kernel-runtime-integrity.html)
+- [PowerHuntShares - Audit Script Designed In Inventory, Analyze, And Report Excessive Privileges Configured On Active Directory Domains](http://www.kitploit.com/2023/01/powerhuntshares-audit-script-designed.html)
+- [TerraLdr - A Payload Loader Designed With Advanced Evasion Features](http://www.kitploit.com/2023/01/terraldr-payload-loader-designed-with.html)
+- [YATAS - A Simple Tool To Audit Your AWS Infrastructure For Misconfiguration Or Potential Security Issues With Plugins Integration](http://www.kitploit.com/2023/01/yatas-simple-tool-to-audit-your-aws.html)
 - [AceLdr - Cobalt Strike UDRL For Memory Scanner Evasion](http://www.kitploit.com/2023/01/aceldr-cobalt-strike-udrl-for-memory.html)
 - [REST-Attacker - Designed As A Proof-Of-Concept For The Feasibility Of Testing Generic Real-World REST Implementations](http://www.kitploit.com/2023/01/rest-attacker-designed-as-proof-of.html)
 - [DotDumper - An Automatic Unpacker And Logger For DotNet Framework Targeting Files](http://www.kitploit.com/2023/01/dotdumper-automatic-unpacker-and-logger.html)
