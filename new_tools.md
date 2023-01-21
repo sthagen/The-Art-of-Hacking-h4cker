@@ -2,6 +2,14 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Tai-e - An Easy-To-Learn/Use Static Analysis Framework For Java](http://www.kitploit.com/2023/01/tai-e-easy-to-learnuse-static-analysis.html)
+- [Ghauri - An Advanced Cross-Platform Tool That Automates The Process Of Detecting And Exploiting SQL Injection Security Flaws](http://www.kitploit.com/2023/01/ghauri-advanced-cross-platform-tool.html)
+- [DragonCastle - A PoC That Combines AutodialDLL Lateral Movement Technique And SSP To Scrape NTLM Hashes From LSASS Process](http://www.kitploit.com/2023/01/dragoncastle-poc-that-combines.html)
+- [Kscan - Simple Asset Mapping Tool](http://www.kitploit.com/2023/01/kscan-simple-asset-mapping-tool.html)
+- [APTRS - Automated Penetration Testing Reporting System](http://www.kitploit.com/2023/01/aptrs-automated-penetration-testing.html)
+- [LATMA - Lateral Movement Analyzer Tool](http://www.kitploit.com/2023/01/latma-lateral-movement-analyzer-tool.html)
+- [AVIator - Antivirus Evasion Project](http://www.kitploit.com/2023/01/aviator-antivirus-evasion-project.html)
+- [Fuzzable - Framework For Automating Fuzzable Target Discovery With Static Analysis](http://www.kitploit.com/2023/01/fuzzable-framework-for-automating.html)
 - [Bkcrack - Crack Legacy Zip Encryption With Biham And Kocher's Known Plaintext Attack](http://www.kitploit.com/2023/01/bkcrack-crack-legacy-zip-encryption.html)
 - [KRIe - Linux Kernel Runtime Integrity With eBPF](http://www.kitploit.com/2023/01/krie-linux-kernel-runtime-integrity.html)
 - [PowerHuntShares - Audit Script Designed In Inventory, Analyze, And Report Excessive Privileges Configured On Active Directory Domains](http://www.kitploit.com/2023/01/powerhuntshares-audit-script-designed.html)
