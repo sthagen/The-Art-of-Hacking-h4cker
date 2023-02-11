@@ -2,6 +2,18 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Leaktopus - Keep Your Source Code Under Control](http://www.kitploit.com/2023/02/leaktopus-keep-your-source-code-under.html)
+- [C99Shell-PHP7 - PHP 7 And Safe-Build Update Of The Popular C99 Variant Of PHP Shell](http://www.kitploit.com/2023/02/c99shell-php7-php-7-and-safe-build.html)
+- [Darkdump2 - Search The Deep Web Straight From Your Terminal](http://www.kitploit.com/2023/02/darkdump2-search-deep-web-straight-from.html)
+- [Heap_Detective - The Simple Way To Detect Heap Memory Pitfalls In C++ And C](http://www.kitploit.com/2023/02/heapdetective-simple-way-to-detect-heap.html)
+- [Winevt_Logs_Analysis - Searching .Evtx Logs For Remote Connections](http://www.kitploit.com/2023/02/winevtlogsanalysis-searching-evtx-logs.html)
+- [EAST - Extensible Azure Security Tool - Documentation](http://www.kitploit.com/2023/02/east-extensible-azure-security-tool.html)
+- [Aws-Security-Assessment-Solution - An AWS Tool To Help You Create A Point In Time Assessment Of Your AWS Account Using Prowler And Scout As Well As Optional AWS Developed Ransomware Checks](http://www.kitploit.com/2023/02/aws-security-assessment-solution-aws.html)
+- [Suborner - The Invisible Account Forger](http://www.kitploit.com/2023/02/suborner-invisible-account-forger.html)
+- [Monomorph - MD5-Monomorphic Shellcode Packer - All Payloads Have The Same MD5 Hash](http://www.kitploit.com/2023/02/monomorph-md5-monomorphic-shellcode.html)
+- [Sandfly-Entropyscan - Tool To Detect Packed Or Encrypt ed Binaries Related To Malware, Finds Malicious Files And Linux Processes And Gives Output With Cryptographic Hashes](http://www.kitploit.com/2023/01/sandfly-entropyscan-tool-to-detect.html)
+- [DFShell - The Best Forwarded Shell](http://www.kitploit.com/2023/01/dfshell-best-forwarded-shell.html)
+- [Yaralyzer - Visually Inspect And Force Decode YARA And Regex Matches Found In Both Binary And Text Data, With Colors](http://www.kitploit.com/2023/01/yaralyzer-visually-inspect-and-force.html)
 - [SSTImap - Automatic SSTI Detection Tool With Interactive Interface](http://www.kitploit.com/2023/01/sstimap-automatic-ssti-detection-tool.html)
 - [BlueHound - Tool That Helps Blue Teams Pinpoint The Security Issues That Actually Matter](http://www.kitploit.com/2023/01/bluehound-tool-that-helps-blue-teams.html)
 - [GUAC - Aggregates Software Security Metadata Into A High Fidelity Graph Database](http://www.kitploit.com/2023/01/guac-aggregates-software-security.html)
