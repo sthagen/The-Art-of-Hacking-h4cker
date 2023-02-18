@@ -2,6 +2,13 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Upload_Bypass_Carnage - File Upload Restrictions Bypass, By Using Different Bug Bounty Techniques!](http://www.kitploit.com/2023/02/uploadbypasscarnage-file-upload.html)
+- [OffensivePipeline - Allows You To Download And Build C# Tools, Applying Certain Modifications In Order To Improve Their Evasion For Red Team Exercises](http://www.kitploit.com/2023/02/offensivepipeline-allows-you-to.html)
+- [Misp-Extractor - Tool That Connects To A MISP Instance And Retrieves Attributes Of Specific Types (Such As IP Addresses, URLs, And Hashes)](http://www.kitploit.com/2023/02/misp-extractor-tool-that-connects-to.html)
+- [Web-Hacking-Playground - Web Application With Vulnerabilities Found In Real Cases, Both In Pentests And In Bug Bounty Programs](http://www.kitploit.com/2023/02/web-hacking-playground-web-application.html)
+- [Invoke-Transfer - PowerShell Clipboard Data Transfer](http://www.kitploit.com/2023/02/invoke-transfer-powershell-clipboard.html)
+- [Email-Vulnerablity-Checker - Find Email Spoofing Vulnerablity Of Domains](http://www.kitploit.com/2023/02/email-vulnerablity-checker-find-email.html)
+- [DNSrecon-gui - DNSrecon Tool With GUI For Kali Linux](http://www.kitploit.com/2023/02/dnsrecon-gui-dnsrecon-tool-with-gui-for.html)
 - [Powershell-Backdoor-Generator - Obfuscated Powershell Reverse Backdoor With Flipper Zero And USB Rubber Ducky Payloads](http://www.kitploit.com/2023/02/powershell-backdoor-generator.html)
 - [Leaktopus - Keep Your Source Code Under Control](http://www.kitploit.com/2023/02/leaktopus-keep-your-source-code-under.html)
 - [C99Shell-PHP7 - PHP 7 And Safe-Build Update Of The Popular C99 Variant Of PHP Shell](http://www.kitploit.com/2023/02/c99shell-php7-php-7-and-safe-build.html)
