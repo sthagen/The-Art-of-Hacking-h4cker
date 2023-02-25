@@ -2,6 +2,13 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [CVE-Vulnerability-Information-Downloader - Downloads Information From NIST (CVSS), First.Org (EPSS), And CISA (Exploited Vulnerabilities) And Combines Them Into One List](http://www.kitploit.com/2023/02/cve-vulnerability-information.html)
+- [Tracgram - Use Instagram Location Features To Track An Account](http://www.kitploit.com/2023/02/tracgram-use-instagram-location.html)
+- [Gmailc2 - A Fully Undetectable C2 Server That Communicates Via Google SMTP To Evade Antivirus Protections And Network Traffic Restrictions](http://www.kitploit.com/2023/02/gmailc2-fully-undetectable-c2-server.html)
+- [Probable_Subdomains - Subdomains Analysis And Generation Tool. Reveal The Hidden!](http://www.kitploit.com/2023/02/probablesubdomains-subdomains-analysis.html)
+- [Reverseip_Py - Domain Parser For IPAddress.com Reverse IP Lookup](http://www.kitploit.com/2023/02/reverseippy-domain-parser-for.html)
+- [Faraday - Open Source Vulnerability Management Platform](http://www.kitploit.com/2023/02/faraday-open-source-vulnerability.html)
+- [ThreatHound - Tool That Help You On Your IR & Threat Hunting And CA](http://www.kitploit.com/2023/02/threathound-tool-that-help-you-on-your.html)
 - [Upload_Bypass_Carnage - File Upload Restrictions Bypass, By Using Different Bug Bounty Techniques!](http://www.kitploit.com/2023/02/uploadbypasscarnage-file-upload.html)
 - [OffensivePipeline - Allows You To Download And Build C# Tools, Applying Certain Modifications In Order To Improve Their Evasion For Red Team Exercises](http://www.kitploit.com/2023/02/offensivepipeline-allows-you-to.html)
 - [Misp-Extractor - Tool That Connects To A MISP Instance And Retrieves Attributes Of Specific Types (Such As IP Addresses, URLs, And Hashes)](http://www.kitploit.com/2023/02/misp-extractor-tool-that-connects-to.html)
