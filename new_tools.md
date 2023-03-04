@@ -2,6 +2,11 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [X-force - IBM Security Utilitary Library In Python. Search And Query All Sources: Threat_Activities And Groups, Malware_Analysis, Industries](http://www.kitploit.com/2023/03/x-force-ibm-security-utilitary-library.html)
+- [Cortex-XDR-Config-Extractor - Cortex XDR Config Extractor](http://www.kitploit.com/2023/03/cortex-xdr-config-extractor-cortex-xdr.html)
+- [APKHunt - Comprehensive Static Code Analysis Tool For Android Apps That Is Based On The OWASP MASVS Framework](http://www.kitploit.com/2023/02/apkhunt-comprehensive-static-code.html)
+- [IpGeo - Tool To Extract IP Addresses From Captured Network Traffic File](http://www.kitploit.com/2023/02/ipgeo-tool-to-extract-ip-addresses-from.html)
+- [SXDork - A Powerful Tool That Utilizes The Technique Of Google Dorking To Search For Specific Information On The Internet](http://www.kitploit.com/2023/02/sxdork-powerful-tool-that-utilizes.html)
 - [CVE-Vulnerability-Information-Downloader - Downloads Information From NIST (CVSS), First.Org (EPSS), And CISA (Exploited Vulnerabilities) And Combines Them Into One List](http://www.kitploit.com/2023/02/cve-vulnerability-information.html)
 - [Tracgram - Use Instagram Location Features To Track An Account](http://www.kitploit.com/2023/02/tracgram-use-instagram-location.html)
 - [Gmailc2 - A Fully Undetectable C2 Server That Communicates Via Google SMTP To Evade Antivirus Protections And Network Traffic Restrictions](http://www.kitploit.com/2023/02/gmailc2-fully-undetectable-c2-server.html)
