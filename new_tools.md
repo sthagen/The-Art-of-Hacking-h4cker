@@ -2,6 +2,13 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Dumpulator - An Easy-To-Use Library For Emulating Memory Dumps. Useful For Malware Analysis (Config Extraction, Unpacking) And Dynamic Analysis In General (Sandboxing)](https://www.kitploit.com/2023/05/dumpulator-easy-to-use-library-for.html)
+- [Cbrutekrag - Penetration Tests On SSH Servers Using Brute Force Or Dictionary Attacks. Written In C](https://www.kitploit.com/2023/05/cbrutekrag-penetration-tests-on-ssh.html)
+- [RustChain - Hide Memory Artifacts Using ROP And Hardware Breakpoints](https://www.kitploit.com/2023/05/rustchain-hide-memory-artifacts-using.html)
+- [Wafaray - Enhance Your Malware Detection With WAF + YARA (WAFARAY)](https://www.kitploit.com/2023/05/wafaray-enhance-your-malware-detection.html)
+- [KoodousFinder - A Simple Tool To Allows Users To Search For And Analyze Android Apps For Potential Security Threats And Vulnerabilities](https://www.kitploit.com/2023/05/koodousfinder-simple-tool-to-allows.html)
+- [ShadowSpray - A Tool To Spray Shadow Credentials Across An Entire Domain In Hopes Of Abusing Long Forgotten GenericWrite/GenericAll DACLs Over Other Objects In The Domain](http://www.kitploit.com/2023/05/shadowspray-tool-to-spray-shadow.html)
+- [PassMute - PassMute - A Multi Featured Password Transmutation/Mutator Tool](http://www.kitploit.com/2023/05/passmute-passmute-multi-featured.html)
 - [Lfi-Space - LFI Scan Tool](http://www.kitploit.com/2023/05/lfi-space-lfi-scan-tool.html)
 - [TLDHunt - Domain Availability Checker](http://www.kitploit.com/2023/05/tldhunt-domain-availability-checker.html)
 - [Indicator-Intelligence - Finds Related Domains And IPv4 Addresses To Do Threat Intelligence After Indicator-Intelligence Collects Static Files](http://www.kitploit.com/2023/05/indicator-intelligence-finds-related.html)
