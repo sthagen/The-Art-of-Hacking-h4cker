@@ -2,6 +2,13 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [msLDAPDump - LDAP Enumeration Tool](http://www.kitploit.com/2023/06/msldapdump-ldap-enumeration-tool.html)
+- [Certsync - Dump NTDS With Golden Certificates And UnPAC The Hash](http://www.kitploit.com/2023/06/certsync-dump-ntds-with-golden.html)
+- [EndExt - Go Tool For Extracting All The Possible Endpoints From The JS Files](http://www.kitploit.com/2023/06/endext-go-tool-for-extracting-all.html)
+- [Scanner-and-Patcher - A Web Vulnerability Scanner And Patcher](http://www.kitploit.com/2023/06/scanner-and-patcher-web-vulnerability.html)
+- [Handle-Ripper - Windows Handle Hijacker](http://www.kitploit.com/2023/06/handle-ripper-windows-handle-hijacker.html)
+- [Forensia - Anti Forensics Tool For Red Teamers, Used For Erasing Footprints In The Post Exploitation Phase](http://www.kitploit.com/2023/06/forensia-anti-forensics-tool-for-red.html)
+- [LSMS - Linux Security And Monitoring Scripts](http://www.kitploit.com/2023/06/lsms-linux-security-and-monitoring.html)
 - [Firefly - Black Box Fuzzer For Web Applications](http://www.kitploit.com/2023/06/firefly-black-box-fuzzer-for-web.html)
 - [BackupOperatorToolkit - The BackupOperatorToolkit Contains Different Techniques Allowing You To Escalate From Backup Operator To Domain Admin](http://www.kitploit.com/2023/06/backupoperatortoolkit.html)
 - [Killer - Is A Tool Created To Evade AVs And EDRs Or Security Tools](http://www.kitploit.com/2023/06/killer-is-tool-created-to-evade-avs-and.html)
