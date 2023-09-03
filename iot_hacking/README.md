@@ -43,6 +43,7 @@ The Internet of Things (IoT) Hacking Resources refer to an array of tools and fr
 
 - [Bus Blaster](http://dangerousprototypes.com/docs/Bus_Blaster) - Detects and interacts with hardware debug ports like [UART](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter) and [JTAG](https://en.wikipedia.org/wiki/JTAG).
 - [Bus Pirate](http://dangerousprototypes.com/docs/Bus_Pirate) - Detects and interacts with hardware debug ports like UART and JTAG.
+- [GreatFET One](https://www.adafruit.com/product/4234) - If you need an interface to an external chip, a logic analyzer, a debugger, or just a whole lot of pins to bit-bang, the versatile GreatFET One is the tool for you.
 - [Shikra](https://int3.cc/products/the-shikra) - Detects and interacts with hardware debug ports like UART and JTAG. Among other protocols.
 - [JTAGULATOR](http://www.grandideastudio.com/jtagulator/) - Detects JTAG Pinouts fast.
 - [Saleae](https://www.saleae.com/) - Easy to use Logic Analyzer that support many protocols :euro:.
@@ -82,7 +83,6 @@ The Internet of Things (IoT) Hacking Resources refer to an array of tools and fr
 ## Free Training
 
 - [CSAW Embedded Security Challenge 2019](https://github.com/TrustworthyComputing/csaw_esc_2019) - CSAW 2019 Embedded Security Challenge (ESC).
-- [Embedded Security CTF](https://microcorruption.com) - Microcorruption: Embedded Security CTF.
 - [Hardware Hacking 101](https://github.com/rdomanski/hardware_hacking/tree/master/my_talks/Hardware_Hacking_101) - Workshop @ BSides Munich 2019.
 - [IoTGoat](https://github.com/scriptingxss/IoTGoat) - IoTGoat is a deliberately insecure firmware based on OpenWrt.
 - [Rhme-2015](https://github.com/Riscure/RHme-2015) - First riscure Hack me hardware CTF challenge.
