@@ -20,7 +20,7 @@ The ethical use of OSINT means respecting privacy and legality, focusing on info
 Ethical hackers document their findings and provide insights to organizations on how to mitigate any discovered vulnerabilities or security gaps, enhancing the overall security posture of the organization.
 
 ## Passive Recon Tools:
-- [AMass](https://github.com/OWASP/Amass)
+- [AMass](https://github.com/owasp-amass/amass)
 - [Deepinfo (commercial tool)](https://deepinfo.com)
 - [EXIF Editor](https://exifeditor.io)
 - [Exiftool](https://www.sno.phy.queensu.ca/~phil/exiftool/)
@@ -73,6 +73,7 @@ Ethical hackers document their findings and provide insights to organizations on
 | crt.sh              | Certificate Search|
 | vulners.com         | Vulnerabilities    |
 | pulsedive.com       | Threat Intelligence|
+| scanmalware.com     | Threat Intelligence|
 
 ### Website Exploration and "Google Hacking"
 - censys : https://censys.io
@@ -114,6 +115,7 @@ Ethical hackers document their findings and provide insights to organizations on
 ### Social Media
 * [A tool to scrape LinkedIn](https://github.com/dchrastil/TTSL)
 * [cree.py](https://github.com/ilektrojohn/creepy)
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ### Acquisitions and 
 - [OCCRP Aleph](https://aleph.occrp.org/) - The global archive of research material for investigative reporting.
