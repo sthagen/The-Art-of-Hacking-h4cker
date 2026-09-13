@@ -29,6 +29,7 @@ Ethical hackers document their findings and provide insights to organizations on
 - [FOCA](https://elevenpaths.com)
 - [IntelTechniques](https://inteltechniques.com)
 - [Maltego](https://www.paterva.com/web7/)
+- [PRISM](https://github.com/NovaCode37/Prism-platform) - Self-hosted OSINT platform with a web dashboard: domains, IPs, emails, phone numbers and usernames across 22+ modules, with an exposure score, entity graph and HTML/PDF reports.
 - [Recon-NG](https://github.com/lanmaster53/recon-ng)
 - [Scrapy](https://scrapy.org)
 - [Screaming Frog](https://www.screamingfrog.co.uk)
@@ -66,6 +67,7 @@ Ethical hackers document their findings and provide insights to organizations on
 | searchcode.com      | Codes Search       |
 | urlscan.io          | Threat Intelligence|
 | publicwww.com       | Codes Search       |
+| searchwebcode.com   | Source Code Search |
 | fullhunt.io         | Attack Surface     |
 | socradar.io         | Threat Intelligence|
 | binaryedge.io       | Attack Surface     |
